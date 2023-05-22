@@ -20,3 +20,7 @@ body {
     height: 100px;
     margin: 0;
   }
+
+  li {
+    color:red;
+  }
